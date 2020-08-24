@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Naresh naresh@gmail
 
 # THANKS
 
